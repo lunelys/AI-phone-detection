@@ -1,0 +1,7 @@
+# Neural Network weights -----------------------
+*.pt
+# Environments -----------------------
+/venv
+/.idea
+# datasets and projects -----------------------
+.DS_Store
