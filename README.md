@@ -1,4 +1,4 @@
-# AI_phone_detection
+# AI-phone-detection
 "No phones allowed!": a very simple AI tool to detect in real-time when a phone appears on camera and emit an alarm until the phone disappears.
 Written for my Master 1's English science fair project
 
